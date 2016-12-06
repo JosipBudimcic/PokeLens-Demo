@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ed981c9cb3ad8884d90f8848d07da3e3
+timeCreated: 1480472891
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001 pm0016_00
+    100002: 002 Origin
+    100004: 003 Waist
+    100006: 004 Hips
+    100008: 006 LThigh
+    100010: 007 LLeg
+    100012: 008 LFoot
+    100014: 010 LToeA1
+    100016: 011 LToeA2
+    100018: 013 LToeB1
+    100020: 014 LToeB2
+    100022: 016 LToeC1
+    100024: 017 LToeC2
+    100026: 019 RThigh
+    100028: 020 RLeg
+    100030: 021 RFoot
+    100032: 023 RToeA1
+    100034: 024 RToeA2
+    100036: 026 RToeB1
+    100038: 027 RToeB2
+    100040: 029 RToeC1
+    100042: 030 RToeC2
+    100044: 032 Tail1
+    100046: 033 Tail2
+    100048: 035 Spine1
+    100050: 036 Spine2
+    100052: 037 Feeler
+    100054: 039 Spine3
+    100056: 040 Head
+    100058: 042 Hair
+    100060: 044 LowerBeak
+    100062: 049 LShoulder
+    100064: 050 LArm
+    100066: 051 LForeArm
+    100068: 052 LHand
+    100070: 057 RShoulder
+    100072: 058 RArm
+    100074: 059 RForeArm
+    100076: 060 RHand
+    100078: master_height
+    100080: master_rotation
+    100082: master_translate
+    100084: master_world_spin
+    100086: Pidgey
+    100088: //RootNode
+    100090: skeleton
+    400000: 001 pm0016_00
+    400002: 002 Origin
+    400004: 003 Waist
+    400006: 004 Hips
+    400008: 006 LThigh
+    400010: 007 LLeg
+    400012: 008 LFoot
+    400014: 010 LToeA1
+    400016: 011 LToeA2
+    400018: 013 LToeB1
+    400020: 014 LToeB2
+    400022: 016 LToeC1
+    400024: 017 LToeC2
+    400026: 019 RThigh
+    400028: 020 RLeg
+    400030: 021 RFoot
+    400032: 023 RToeA1
+    400034: 024 RToeA2
+    400036: 026 RToeB1
+    400038: 027 RToeB2
+    400040: 029 RToeC1
+    400042: 030 RToeC2
+    400044: 032 Tail1
+    400046: 033 Tail2
+    400048: 035 Spine1
+    400050: 036 Spine2
+    400052: 037 Feeler
+    400054: 039 Spine3
+    400056: 040 Head
+    400058: 042 Hair
+    400060: 044 LowerBeak
+    400062: 049 LShoulder
+    400064: 050 LArm
+    400066: 051 LForeArm
+    400068: 052 LHand
+    400070: 057 RShoulder
+    400072: 058 RArm
+    400074: 059 RForeArm
+    400076: 060 RHand
+    400078: master_height
+    400080: master_rotation
+    400082: master_translate
+    400084: master_world_spin
+    400086: Pidgey
+    400088: //RootNode
+    400090: skeleton
+    4300000: Pidgey
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Pidgey
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
